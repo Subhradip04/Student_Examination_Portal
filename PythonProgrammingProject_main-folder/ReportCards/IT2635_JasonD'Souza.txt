@@ -1,0 +1,14 @@
+Name of the student : Jason D'Souza 
+Class Roll of the student : 35 
+Stream of the student : IT 
+Your Student ID is : IT2635
+
+Marks obtained in Math is : 89 
+Marks obtained in Python is : 91 
+Marks obtained in Physics is : null 
+Marks obtained in Chemistry is : 95 
+Marks obtained in Biology is : 85 
+Marks obtained in English is : 94 
+
+You have got 454 in total with 90%
+Outstanding Performance... You have passed the exam with grade A.

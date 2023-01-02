@@ -1,0 +1,14 @@
+Name of the student : Dhruv Nanda 
+Class Roll of the student : 2 
+Stream of the student : ECE 
+Your Student ID is : ECE262
+
+Marks obtained in Math is : 35 
+Marks obtained in Python is : 50 
+Marks obtained in Physics is : null 
+Marks obtained in Chemistry is : 67 
+Marks obtained in Biology is : 70 
+Marks obtained in English is : 85 
+
+You have got 307 in total with 61%
+Your performance is average... Work hard... You have passed the exam with grade D.

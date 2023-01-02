@@ -1,0 +1,14 @@
+Name of the student : Amiya Shetty 
+Class Roll of the student : 1 
+Stream of the student : ECE 
+Your Student ID is : ECE261
+
+Marks obtained in Math is : 85 
+Marks obtained in Python is : 100 
+Marks obtained in Physics is : null 
+Marks obtained in Chemistry is : 89 
+Marks obtained in Biology is : 100 
+Marks obtained in English is : 92 
+
+You have got 466 in total with 93%
+Outstanding Performance... You have passed the exam with grade A.

@@ -1,0 +1,14 @@
+Name of the student : Tanistha Bhattacharya 
+Class Roll of the student : 16 
+Stream of the student : CSE 
+Your Student ID is : CSE2616
+
+Marks obtained in Math is : 45 
+Marks obtained in Python is : 15 
+Marks obtained in Physics is : 50 
+Marks obtained in Chemistry is : null 
+Marks obtained in Biology is : 25 
+Marks obtained in English is : 52 
+
+You have got 187 in total with 31%
+Extremely poor performance... You have Failed the Exam and got F.

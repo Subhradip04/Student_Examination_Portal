@@ -1,0 +1,14 @@
+Name of the student : Rahul Singhania 
+Class Roll of the student : 15 
+Stream of the student : CSE 
+Your Student ID is : CSE2615
+
+Marks obtained in Math is : 97 
+Marks obtained in Python is : 80 
+Marks obtained in Physics is : 84 
+Marks obtained in Chemistry is : null 
+Marks obtained in Biology is : 90 
+Marks obtained in English is : 75 
+
+You have got 426 in total with 71%
+Excellent Performance... You have passed the exam with grade B.
